@@ -1,33 +1,36 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**emanuelsantoz/emanuelsantoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá me chamo Emanuel, atualmente sou estudante no barracred conecta, a onde estou aprendendo programação em
+  <strong>.Net, Javascritp, Typescript e Dart</strong>, além disso estou em busca de iniciar a minha carreira no mercado de trabalho.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-### Olá 👋, sou o João Pedro Doni !
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-Sou brasileiro, bilíngue, falo e leio um bom inglês (e adoro a língua inglesa), então farei este Readme em ambos.   
-Como você pode ver na minha Bio, estou graduando em Desenvolvimento de Software Multiplataforma na Fatec Ogari de Castro Pacheco, em Itapira, São Paulo.   
-Deixei incompleto uma graduação aqui em Gestão da Informação Tecnológica em 2021, onde comecei em 2019, mas fiz vestibular novamente para fazer um novo curso de Desenvolvimento de Software multiplataforma, para que eu pudesse pular algumas matérias e terminar esse novo curso o mais rápido possível!  
-Eu já jogo vidoegames a uma vida inteira, assim aprendi todo o inglês completamente sozinho e autodidata.   
-Sempre tive acesso e uso a computadores e videogames, mas como todo jovem nunca soube muitos detalhes até iniciar a Gerência de Informação Tecnológica em 2019.  
-Aqui abro minha mente para um novo mundo de desenvolvimento tecnológico, agora posso dizer que sonho com uma carreira e um lugar no mundo da tecnologia.  
-Adquiri algumas softskills como, bom relacionamento interpessoal, aprendizado fácil e rápido, vontade e curiosidade de aprender e descobrir como funcionam as tecnologias.  
-Gosto de programar em C, Java, PHP e muitas outras linguagens.  
-Estou aprendendo muitas outras formas de trabalhar, como desenhar diagramas UML, casos de uso e outras ferramentas de engenharias de software.  
-Eu uso e instalei distribuições linux, conheço princípios de sistemas operacionais, Redes, hardwares e muitos outros.  
-isso é tudo que posso dizer, um dia quero saber meu lugar no grande universo da tecnologia, todo dia é um novo aprendizado e descoberta.  
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanu-el" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+ado e descoberta.  
+
 
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
 * Jogo FPS quando tenho tempo livre 🔫 [Steam](https://steamcommunity.com/id/jpedrow1).
