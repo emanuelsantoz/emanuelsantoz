@@ -4,7 +4,6 @@
   Olá me chamo Emanuel, atualmente sou estudante no barracred conecta, a onde estou aprendendo programação em
   <strong>.Net, Javascritp, Typescript e Dart</strong>, além disso estou em busca de iniciar a minha carreira no mercado de trabalho.
 </p>
-
 <p align="left">
   🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
