@@ -3,21 +3,23 @@
     <img src="https://img.shields.io/badge/Português-009639?style=for-the-badge&logo=brazil&logoColor=white" alt="Português"/>
   </a>
   <a href="README.en.md" title="English">
-    <img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=us&logoColor=white" alt="English"/>
+    <img src="https://img.shields.io/badge/English-0077B5?style=for-the-badge&logo=us&logoColor=white" alt="English"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=300&section=header&text=Emanuel%20Santoz&fontSize=90&fontColor=C0C0C0&desc=Software%20Developer%20Student%20%7C%20.NET%20&%20Front-end&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=300&section=header&text=Emanuel%20Santos&fontSize=90&fontColor=C0C0C0&animation=fadeIn&fontAlignY=35" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=C0C0C0&width=500&lines=Engenheiro+de+Software;Designer+UI%2FUX;Desenvolvedor+Fullstack&center=true&vCenter=true&size=26" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Olá, eu sou o Emanuel!
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75NDqsR/giphy.gif" width="50"> Olá, eu sou o Emanuel!
 
-Sou um entusiasta de tecnologia e estudante de desenvolvimento de software no **Barracred Conecta**. Estou focado em construir soluções robustas e escaláveis, aprendendo e aplicando conhecimentos em **.NET, JavaScript, TypeScript e Dart**.
+Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando no **Barracred Conecta**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack.
 
-- 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais.
-- 🌱 Aprendendo profundamente sobre arquitetura de software e boas práticas.
-- 👯 Procuro colaborar em projetos open source e desafios de código.
+- 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais inovadores.
+- 🌱 Aprofundando conhecimentos em Arquitetura de Software, Design Patterns e Cloud Computing.
+- 👯 Aberto a colaborações em projetos Open Source e desafios técnicos complexos.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emanu-ell/)
 
 ---
@@ -40,6 +42,12 @@ Sou um entusiasta de tecnologia e estudante de desenvolvimento de software no **
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
+#### Testing & QA
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/XUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white" />
+<img src="https://img.shields.io/badge/NUnit-25A162?style=for-the-badge&logo=nunit&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-Testing-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 #### Database & Tools
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -54,14 +62,18 @@ Sou um entusiasta de tecnologia e estudante de desenvolvimento de software no **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelsantoz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C0C0C0&text_color=ffffff&icon_color=007ACC" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelsantoz&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=C0C0C0&text_color=ffffff&icon_color=007ACC" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelsantoz&show_icons=true&hide_border=true&bg_color=000000&title_color=C0C0C0&text_color=ffffff&icon_color=0077B5&border_color=0077B5" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelsantoz&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=C0C0C0&text_color=ffffff&icon_color=0077B5&border_color=0077B5" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/emanuelsantoz/emanuelsantoz/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanuelsantoz/emanuelsantoz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanuelsantoz/emanuelsantoz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emanuelsantoz/emanuelsantoz/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
