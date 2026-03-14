@@ -79,7 +79,7 @@ Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmen
 
 ---
 
-### 📫 Connect with me
+### 📫 Entre em contato comigo
 
 <div align="center">
   <a href="mailto:seuemail@gmail.com">
