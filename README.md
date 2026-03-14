@@ -8,12 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=300&section=header&text=Emanuel%20Santos&fontSize=90&fontColor=C0C0C0&animation=fadeIn&fontAlignY=35" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=C0C0C0&width=500&lines=Engenheiro+de+Software;Designer+UI%2FUX;Desenvolvedor+Fullstack&center=true&vCenter=true&size=26" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:002244&height=250&section=header&text=Emanuel%20Santos&fontSize=90&fontColor=C0C0C0&animation=fadeIn&fontAlignY=40" alt="Emanuel Santos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=0077B5&width=500&height=40&lines=Engenheiro+de+Software;Designer+UI%2FUX;Desenvolvedor+Fullstack&center=true&vCenter=true&size=26" alt="Typing Subtitle" />
 </div>
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75NDqsR/giphy.gif" width="50"> Olá, eu sou o Emanuel!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Polvo Roxinho" width="50" height="50" /> Olá, eu sou o Emanuel!
 
 Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando no **Barracred Conecta**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack.
 
