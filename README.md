@@ -14,7 +14,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Polvo Roxinho" width="50" height="50" /> Olá, eu sou o Emanuel!
 
-Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando no **Barracred Conecta**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack.
+Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando na **Cooperativa Barracred**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack.
 
 - 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais inovadores.
 - 🌱 Aprofundando conhecimentos em Arquitetura de Software, Design Patterns e Cloud Computing.
