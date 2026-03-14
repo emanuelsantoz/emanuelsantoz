@@ -18,6 +18,7 @@ Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmen
 
 - 🚀 Confira meu trabalho completo e projetos de design: **[Acesse meu Portfólio](https://portifolio-emanuelsantos.vercel.app/)**
 - 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais inovadores.
+- 🤖 Apaixonado por Inteligência Artificial, sempre me atualizando e buscando entender o funcionamento dos LLMs, com o objetivo de estudar a fundo e criar minha própria IA no futuro.
 - 🌱 Aprofundando conhecimentos em Arquitetura de Software, Design Patterns e Cloud Computing.
 - 👯 Aberto a colaborações em projetos Open Source e desafios técnicos complexos.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emanu-ell/)
