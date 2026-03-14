@@ -11,14 +11,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=300&section=header&text=Emanuel%20Santoz&fontSize=90&fontColor=C0C0C0&desc=Software%20Developer%20Student%20%7C%20.NET%20&%20Front-end&descAlignY=51&descAlign=62" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Olá, eu sou o Emanuel!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello, I'm Emanuel!
 
-Sou um entusiasta de tecnologia e estudante de desenvolvimento de software no **Barracred Conecta**. Estou focado em construir soluções robustas e escaláveis, aprendendo e aplicando conhecimentos em **.NET, JavaScript, TypeScript e Dart**.
+I am a technology enthusiast and software development student at **Barracred Conecta**. I'm focused on building robust and scalable solutions, learning and applying knowledge in **.NET, JavaScript, TypeScript, and Dart**.
 
-- 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais.
-- 🌱 Aprendendo profundamente sobre arquitetura de software e boas práticas.
-- 👯 Procuro colaborar em projetos open source e desafios de código.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emanu-ell/)
+- 🔭 Currently working on academic and personal projects.
+- 🌱 Deeply learning about software architecture and best practices.
+- 👯 Looking to collaborate on open source projects and coding challenges.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emanu-ell/)
 
 ---
 
