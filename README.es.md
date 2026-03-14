@@ -12,19 +12,19 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:002244&height=250&section=header&text=Emanuel%20Santos&fontSize=90&fontColor=C0C0C0&animation=fadeIn&fontAlignY=40" alt="Emanuel Santos" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=0077B5&width=500&height=40&lines=Engenheiro+de+Software;Designer+UI%2FUX;Desenvolvedor+Fullstack&center=true&vCenter=true&size=26" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=0077B5&width=500&height=40&lines=Ingeniero+de+Software;Diseñador+UI%2FUX;Desarrollador+Fullstack&center=true&vCenter=true&size=26" alt="Typing Subtitle" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Olá, eu sou o Emanuel!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola, soy Emanuel!
 
-Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando na **Cooperativa Barracred**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack. Além do código, sou um grande entusiasta de **UI/UX Design e Desenvolvimento Mobile**, sempre buscando criar interfaces intuitivas e experiências incríveis para o usuário.
+Soy Desarrollador de Software en formación y un entusiasta de la tecnología, actualmente trabajando en la **Cooperativa Barracred**. Con un enfoque en la arquitectura de software robusta y escalabilidad, tengo experiencia práctica en **.NET, JavaScript, TypeScript y Dart**, buscando constantemente la excelencia en el desarrollo Fullstack. Más allá del código, soy un gran apasionado del **Diseño UI/UX y el Desarrollo Móvil**, buscando siempre crear interfaces intuitivas y experiencias de usuario increíbles.
 
-- 🚀 Confira meu trabalho completo e projetos de design: **[Acesse meu Portfólio](https://portifolio-emanuelsantos.vercel.app/)**
-- 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais inovadores.
-- 🤖 Apaixonado por Inteligência Artificial, sempre me atualizando e buscando entender o funcionamento dos LLMs, com o objetivo de estudar a fundo e criar minha própria IA no futuro.
-- 🌱 Aprofundando conhecimentos em Arquitetura de Software, Design Patterns e Cloud Computing.
-- 👯 Aberto a colaborações em projetos Open Source e desafios técnicos complexos.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/emanu-ell/)
+- 🚀 Conoce mi trabajo completo y proyectos de diseño: **[Visita mi Portafolio](https://portifolio-emanuelsantos.vercel.app/)**
+- 🔭 Actualmente trabajando en proyectos académicos y personales innovadores.
+- 🤖 Apasionado por la Inteligencia Artificial, actualizándome constantemente y buscando entender cómo funcionan los LLMs, con el objetivo de estudiarlos a fondo para crear mi propia IA en el futuro.
+- 🌱 Aprendiendo profundamente sobre Arquitectura de Software, Patrones de Diseño y Cloud Computing.
+- 👯 Buscando colaborar en proyectos de Código Abierto y desafíos técnicos complejos.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/emanu-ell/)
 
 ---
 
@@ -82,7 +82,7 @@ Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmen
 
 ---
 
-### 📫 Entre em contato comigo
+### 📫 Contáctame
 
 <div align="center">
   <a href="mailto:seuemail@gmail.com">
