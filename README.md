@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=0077B5&width=500&height=40&lines=Engenheiro+de+Software;Designer+UI%2FUX;Desenvolvedor+Fullstack&center=true&vCenter=true&size=26" alt="Typing Subtitle" />
 </div>
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75NDqsR/giphy.gif" width="50"> Olá, eu sou o Emanuel!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Olá, eu sou o Emanuel!
 
 Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando na **Cooperativa Barracred**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack. Além do código, sou um grande entusiasta de **UI/UX Design e Desenvolvimento Mobile**, sempre buscando criar interfaces intuitivas e experiências incríveis para o usuário.
 
