@@ -14,8 +14,9 @@
 
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75NDqsR/giphy.gif" width="50"> Olá, eu sou o Emanuel!
 
-Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando na **Cooperativa Barracred**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack.
+Sou Desenvolvedor de Software em formação e entusiasta de tecnologia, atualmente atuando na **Cooperativa Barracred**. Com foco em arquitetura de software robusta e escalabilidade, possuo experiência prática em **.NET, JavaScript, TypeScript e Dart**, buscando constantemente a excelência no desenvolvimento Fullstack. Além do código, sou um grande entusiasta de **UI/UX Design e Desenvolvimento Mobile**, sempre buscando criar interfaces intuitivas e experiências incríveis para o usuário.
 
+- 🚀 Confira meu trabalho completo e projetos de design: **[Acesse meu Portfólio](https://portifolio-emanuelsantos.vercel.app/)**
 - 🔭 Atualmente trabalhando em projetos acadêmicos e pessoais inovadores.
 - 🌱 Aprofundando conhecimentos em Arquitetura de Software, Design Patterns e Cloud Computing.
 - 👯 Aberto a colaborações em projetos Open Source e desafios técnicos complexos.
